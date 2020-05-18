@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-tutorial",
+  "version": "1.0.0",
+  "description": "overview of puppeteer, automation framework for chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naseer mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
