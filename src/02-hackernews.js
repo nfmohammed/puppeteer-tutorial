@@ -7,4 +7,5 @@ const puppeteer = require('puppeteer');
   await page.pdf({path: 'hn.pdf', format: 'A4'});
 
   await browser.close();
+  console.log("See generated pdf file...");
 })();
