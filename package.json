@@ -9,6 +9,7 @@
   "author": "naseer mohammed",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^3.0.4"
+    "puppeteer": "^3.0.4",
+    "puppeteer-firefox": "^0.5.1"
   }
 }
